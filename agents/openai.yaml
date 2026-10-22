@@ -1,0 +1,4 @@
+interface:
+  display_name: "image2-ppt"
+  short_description: "先选三款视觉样例，再逐页生成图片、还原可编辑 PPT 并添加动画"
+  default_prompt: "使用 $image2-ppt，根据我的资料和主题制作演示文稿：先展示三款风格样例供我选择，再逐页生成图片、转换为 PPT 并添加动画。"
